@@ -1,0 +1,11 @@
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\bin\Debug\Antenna Radiation Pattern.exe.config
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\bin\Debug\Antenna Radiation Pattern.exe
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\bin\Debug\Antenna Radiation Pattern.pdb
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\bin\Debug\Antenna Radiation Pattern.xml
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna Radiation Pattern.vbprojResolveAssemblyReference.cache
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna_Radiation_Pattern.Form1.resources
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna_Radiation_Pattern.Resources.resources
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna Radiation Pattern.vbproj.GenerateResource.Cache
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna Radiation Pattern.exe
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna Radiation Pattern.xml
+c:\users\leblanc\documents\visual studio 2015\Projects\Antenna Radiation Pattern\Antenna Radiation Pattern\obj\Debug\Antenna Radiation Pattern.pdb
